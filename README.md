@@ -42,8 +42,8 @@ El paquete instalará automáticamente:
 ### Paso 1: Descargar el Paquete
 
 ```bash
-# Opción A: Descargar desde GitHub (cuando esté disponible)
-wget https://github.com/bastardosdelsur/remote-admin-server/remote-admin-server_1.0.0_all.deb
+# Opción A: Descargar desde GitHub 
+wget https://github.com/bastardosdelsur/remote-admin-server/raw/refs/heads/main/remote-admin-server_1.0.0_all.deb
 
 # Opción B: Si tienes el archivo localmente
 # Asegúrate de que el archivo remote-admin-server_1.0.0_all.deb esté en tu directorio actual
